@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/allizad/jekyll-webpack.git"
+    "url": "git+https://github.com/liamtucker/jekyll-webpack.git"
   },
   "keywords": [
     "jekyll",
     "webpack",
     "react"
   ],
-  "author": "Allison Zadrozny",
+  "author": "Liam Tucker",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/allizad/jekyll-webpack/issues"
+    "url": "https://github.com/liamtucker/jekyll-webpack/issues"
   },
-  "homepage": "https://github.com/allizad/jekyll-webpack#readme",
+  "homepage": "https://github.com/liamtucker/jekyll-webpack#readme",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",

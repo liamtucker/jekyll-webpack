@@ -1,9 +1,8 @@
 ## Jekyll & Webpack, integrated
-
-So you can have your React and serve it statically, too. Plugin-free!
+A Jekyll and webpacked boilerplate forked from:
+https://github.com/allizad/jekyll-webpack
 
 Are you working with Github pages? See the gh-pages branch:
-
 - https://github.com/allizad/jekyll-webpack/tree/gh-pages
 
 You can learn more about how this was put together in my walkthrough post here:
